@@ -16,4 +16,4 @@ A clean, simple, responsive home page that is fast, mobile-friendly, and easy to
 - Open `index.html` with a web browser.
 
 ## License :
-- See [LICENSE.txt](https://github.com/kywbaek/homepage/LICENSE.txt).
+- See [LICENSE.txt](https://github.com/kywbaek/homepage/blob/master/LICENSE.txt).
